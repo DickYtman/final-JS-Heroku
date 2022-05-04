@@ -1,0 +1,23 @@
+{
+  "name": "final-js-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DickYtman/final-JS-Heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DickYtman/final-JS-Heroku/issues"
+  },
+  "homepage": "https://github.com/DickYtman/final-JS-Heroku#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
